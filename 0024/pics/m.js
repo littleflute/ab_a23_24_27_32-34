@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "DSC_7615.JPG";		
+f[2]	= "DSC_7616.JPG";		
+f[3]	= "DSC_7617.JPG";		
+f[4]	= "DSC_7618.JPG";		
+f[5]	= "DSC_7619.JPG";		
+f[6]	= "DSC_7620.JPG";		
+f[7]	= "DSC_7621.JPG";		
+f[8]	= "DSC_7622.JPG";		
